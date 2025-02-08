@@ -1,0 +1,21 @@
+.paragraph-container {
+    background-color: #373636;
+    max-width: 100%;
+    flex-direction: column;
+    border-radius: 8px;
+    /* padding: 2px; */
+
+}
+
+.text {
+    font-size: 12px;
+    line-height: 1.5;
+    margin-bottom: 1rem;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
+    text-indent: 2em;
+    word-break: normal;
+    padding-left: 8px;
+    padding-right: 8px;
+}

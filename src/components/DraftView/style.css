@@ -1,0 +1,8 @@
+.container-draft {
+    /* background-color: white; */
+    flex: auto;
+    margin-left:1rem;
+    height: auto;
+    max-width: 50%;
+    min-width: 50%;
+}
