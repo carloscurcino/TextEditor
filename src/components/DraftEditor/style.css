@@ -34,3 +34,15 @@
 .button:active {        
     background-color: #003366;
 }   
+
+@media (max-width: 444px) {
+    .container-editor {
+        min-width: 100%;
+        height: 100%;
+    }
+    .editor {
+        height: 80%;
+        min-height: 80%;
+        margin-top: 10px;
+    }
+}
